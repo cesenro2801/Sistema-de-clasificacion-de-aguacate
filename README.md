@@ -1,10 +1,14 @@
 <h1 align='center'>SISTEMA DE CLASIFICACIÓN DE AGUACATES (INTELIGENCIA ARTIFICIAL 2)</h1><BR>
 
+<div align="center">
+  <img alt="Modelo de deteccion de estado de semaforos para ayudar a personas invidentes" src="https://github.com/cesenro2801/Sistema-de-clasificacion-de-aguacate/blob/main/20530180-85f2-413d-b562-5c90fadb8440.psd%20(1).png"  />
+</div>
+
 <h2>Planteamiento del Problema</h2>
 <p>El aguacate Hass es la tercera fruta más exportada de Colombia. La clasificación precisa de su madurez tras la cosecha es esencial para mantener la calidad y reducir pérdidas. Este proyecto busca resolver este problema mediante técnicas de visión por computadora.</p>
 
 <h2>Objetivo</h2>
-<p>Desarrollar un algoritmo de inteligencia artificial que permita clasificar los aguacates Hass en las siguientes cinco etapas de madurez:</p>
+<p>Desarrollar un sistema para clasificar aguacates Hass postcosecha en cuanto a su madurez mediante técnicas de procesamiento de imágenes y algoritmos de inteligencia artificial.</p>
 
 <h2>Dataset</h2>
 
