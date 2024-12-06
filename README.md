@@ -12,7 +12,7 @@ Un total de 478 aguacates Hass fueron adquiridos tres días después de la cosec
 
 El proceso de maduración de estos aguacates se documentó mediante fotografías diarias (2 de cada muestra de lados opuestos), cada una vinculada a un Índice de Maduración detallado con cinco etapas: 
 1 - Poco maduro;
-2 - Rompiendo;
+2 - Roto;
 3 - Maduro (Primera Etapa);
 4 - Madura (segunda fase);
 5 - Sobremaduración.
@@ -24,13 +24,6 @@ Además, el conjunto de datos va acompañado de una hoja de cálculo Excel en la
 
 <h2>Objetivo</h2>
 <p>Desarrollar un algoritmo de inteligencia artificial que permita clasificar los aguacates Hass en las siguientes cinco etapas de madurez:</p>
-<ol>
-    <li>Poco maduro</li>
-    <li>Roto</li>
-    <li>Maduro (Primera Etapa)</li>
-    <li>Maduro (Segunda Etapa)</li>
-    <li>Sobremaduro</li>
-</ol>
 
 <h2>Procesamiento de Datos</h2>
 <ul>
