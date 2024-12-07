@@ -1,7 +1,7 @@
 <h1 align='center'>SISTEMA DE CLASIFICACIÓN DE AGUACATES (INTELIGENCIA ARTIFICIAL 2)</h1><BR>
 
 <div align="center">
-  <img alt="Modelo de deteccion de estado de semaforos para ayudar a personas invidentes" src="https://github.com/cesenro2801/Sistema-de-clasificacion-de-aguacate/blob/main/20530180-85f2-413d-b562-5c90fadb8440.psd%20(1).png"  />
+  <img alt="Modelo de deteccion de estado de semaforos para ayudar a personas invidentes" src="https://github.com/cesenro2801/Sistema-de-clasificacion-de-aguacate/blob/main/banner.png"  />
 </div>
 
 <h2>Autor</h2>
