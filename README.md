@@ -4,6 +4,8 @@
   <img alt="Modelo de deteccion de estado de semaforos para ayudar a personas invidentes" src="https://github.com/cesenro2801/Sistema-de-clasificacion-de-aguacate/blob/main/20530180-85f2-413d-b562-5c90fadb8440.psd%20(1).png"  />
 </div>
 
+<h2><a href="https://youtu.be/eZC-thpHr-w">Video explicaion del Proyecto</a></h2>
+
 <h2>Planteamiento del Problema</h2>
 <p>El aguacate Hass es la tercera fruta más exportada de Colombia. La clasificación precisa de su madurez tras la cosecha es esencial para mantener la calidad y reducir pérdidas. Este proyecto busca resolver este problema mediante técnicas de visión por computadora.</p>
 
