@@ -4,6 +4,9 @@
   <img alt="Modelo de deteccion de estado de semaforos para ayudar a personas invidentes" src="https://github.com/cesenro2801/Sistema-de-clasificacion-de-aguacate/blob/main/20530180-85f2-413d-b562-5c90fadb8440.psd%20(1).png"  />
 </div>
 
+<h2>Autor</h2>
+<p>César Enrique Rojas Hernández</p>
+
 <h2><a href="https://youtu.be/eZC-thpHr-w">Video explicaion del Proyecto</a></h2>
 
 <h2>Planteamiento del Problema</h2>
@@ -31,6 +34,9 @@ La cuarta etapa marcaba el final de la vida útil de los aguacates, y cualquier 
 Además, el conjunto de datos va acompañado de una hoja de cálculo Excel en la que figuran todos los nombres de archivo de las fotografías, su correspondiente número de muestra, el grupo de almacenamiento, la clasificación según el índice de maduración en 5 fases, el día en que se tomó la fotografía en relación con el inicio del experimento y el lado del fruto fotografiado (a o b).
 </p>
 
+<h2>Modelos</h2>
+<p>Redes neuronales convolucionales, modelos preentrenados "Restent"</p>
+
 <h2>Procesamiento de Datos</h2>
 <p>Los datos fuero procesados haciendo inicalmete una limpieza dado que faltaban 12 imagenes pero su etiqueta estaba presente, luego de esto las imagenes fueron redimesioadas a 224x224 que es el tamaño que se puede aplicar para un modelo preentrenado.
     
@@ -47,5 +53,4 @@ De las etiquetas se elimino la imformacion de como fueron almacenadas dejando so
     </li>
 </ul>
 
-<h2>Autor</h2>
-<p>César Enrique Rojas Hernández</p>
+
