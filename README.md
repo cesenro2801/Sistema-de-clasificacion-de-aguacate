@@ -34,8 +34,6 @@ La cuarta etapa marcaba el final de la vida útil de los aguacates, y cualquier 
 Además, el conjunto de datos va acompañado de una hoja de cálculo Excel en la que figuran todos los nombres de archivo de las fotografías, su correspondiente número de muestra, el grupo de almacenamiento, la clasificación según el índice de maduración en 5 fases, el día en que se tomó la fotografía en relación con el inicio del experimento y el lado del fruto fotografiado (a o b).
 </p>
 
-<h2>Modelos</h2>
-<p>Redes neuronales convolucionales, modelos preentrenados "Restent"</p>
 
 <h2>Procesamiento de Datos</h2>
 <p>Los datos fuero procesados haciendo inicalmete una limpieza dado que faltaban 12 imagenes pero su etiqueta estaba presente, luego de esto las imagenes fueron redimesioadas a 224x224 que es el tamaño que se puede aplicar para un modelo preentrenado.
@@ -53,4 +51,6 @@ De las etiquetas se elimino la imformacion de como fueron almacenadas dejando so
     </li>
 </ul>
 
+<h2>Modelos</h2>
+<p>Redes neuronales convolucionales, modelos preentrenados "Restent"</p>
 
